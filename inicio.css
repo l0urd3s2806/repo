@@ -1,0 +1,18 @@
+body {
+    background-color: #bbf1d8;
+}
+
+.titulo {
+    background-color: #8ddbb7;
+    color: green;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.subtitulo {
+    text-decoration: underline;
+}
+
+.comuna {
+    text-decoration: underline;
+}
