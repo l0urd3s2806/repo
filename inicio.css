@@ -1,5 +1,8 @@
 body {
     background-color: #bbf1d8;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: auto;
+    width: 85%;
 }
 
 .titulo {
@@ -11,8 +14,15 @@ body {
 
 .subtitulo {
     text-decoration: underline;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .comuna {
     text-decoration: underline;
+}
+
+.texto {
+    background-color: blue;
+    text-align: center;
 }
