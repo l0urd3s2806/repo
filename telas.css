@@ -1,0 +1,31 @@
+body {
+    background-color: #bbf1d8;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: auto;
+    text-align: center;
+    width: 85%;
+}
+
+.titulo {
+    background-color: #ffffff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 4%;
+    text-align: center;
+    width: 85%;
+}
+
+.lista {
+    background-color: #e3fdf1;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 3%;
+    text-align: left;
+    width: 65%;
+}
+
+.subtitulo  {
+    background-color: #a7d8c1;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 3%;
+    text-align: center;
+    width: 85%;
+}
