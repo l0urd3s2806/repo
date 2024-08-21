@@ -12,7 +12,16 @@
         <!--Acá va el menu-->
         <button type="button" class="btn btn-inicio">Inicio</button>
         <button type="button" class="btn btn-contextomundi">¿Qué pasa en el mundo?</button>
-        <button type="button" class="btn btn-Proyectos">¿Cómo puedo ayudar?</button>
+        <div class="btn-group" role="group">
+            <button type="button" class="btn btn-contextmundi-toggle" data-bs-toggle="contextmundi" aria-expanded="false">
+              ¿Cómo puedo ayudar a mejorar el planeta?
+            </button>
+            <ul class="contextmundi-menu">
+              <li><a class="proyectos-item" href="#">Reciclaje: Botellas</a></li>
+              <li><a class="proyectos-item" href="#">Reciclaje: Pilas</a></li>
+              <li><a class="proyectos-item" href="#">Reciclaje: Telas</a></li>
+            </ul>
+        </div>
         <button type="button" class="btn btn-juegos">Juegos Interactivos</button>
         <button type="button" class="btn btn-mapa">Puntos Verdes</button>       
     </header>
