@@ -1,0 +1,40 @@
+body {
+    background-color: #bbf1d8;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: auto;
+    width: 85%;
+}
+
+.titulo {
+    background-color: #8ddbb7;
+    color: green;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/*info*/
+
+.pilas{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.foto-pilas{
+    width: 48%;
+}
+
+
+.pilas .texto-pilas{
+    width: 48%;
+}
+
+
+.texto-pilas{
+    padding: 0px 0px 0px 12px;
+    text-align: justify;
+}
+
+.subtitulo {
+    text-decoration: underline;
+    text-align: center;
+}
