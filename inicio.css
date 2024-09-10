@@ -1,28 +1,30 @@
 body {
-    background-color: #bbf1d8;
+    background-color: #9ad188;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin: auto;
     width: 85%;
 }
-
 .titulo {
-    background-color: #8ddbb7;
-    color: green;
+    background-color: #71b876;
+    color: #FBF6F1;
     text-align: center;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .subtitulo {
     text-decoration: underline;
+    color:#3f7543;
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
 
 .comuna {
     text-decoration: underline;
 }
 
 .texto {
-    background-color: #8ddbb7;
+    background-color: #71b876;
+    color: #162e18;
     text-align: center;
 }
